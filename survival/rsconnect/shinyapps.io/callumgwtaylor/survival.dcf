@@ -1,0 +1,13 @@
+name: survival
+title: survival
+username:
+account: callumgwtaylor
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4028821
+bundleId: 4517595
+url: https://callumgwtaylor.shinyapps.io/survival/
+when: 1619381745.1206
+lastSyncTime: 1619381745.1206
+asMultiple: FALSE
+asStatic: FALSE
