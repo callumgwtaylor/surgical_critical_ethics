@@ -1,11 +1,3 @@
-```{r}
-
-Action ethical dilemmas in surgery: an interview study of practicing surgeons(https://link.springer.com/article/10.1186/1472-6939-6-7)
-
-Qualiative Paper interviewing Norweigen Surgeons perspectives of Surgical Ethical Dilemmas
-
-```
-
 
 # Treatment
 ## Starting or Withholding Treatment
