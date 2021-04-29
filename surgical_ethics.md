@@ -9,9 +9,12 @@ output:
     reveal_plugins: ["notes"]
 ---
 
+# Shared Ethical Dilemmas For Surgery and Critical Care
 
-# Ethical Dilemmas {data-background-iframe="C:/Users/desktop-coll/Dropbox/Medicine/Academic.9.ICM/surgical_critical_ethics/map.html"}
+# Ethical Dilemmas {data-background-iframe="https://callumgwtaylor.github.io/surgical_critical_ethics/map.html"}
 
 <div class="notes">
 
 </div>
+
+#  {data-background-iframe="https://callumgwtaylor.shinyapps.io/survival/"}
