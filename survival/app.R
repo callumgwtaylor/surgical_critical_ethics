@@ -55,7 +55,7 @@ ui <- fluidPage(
         mainPanel(
             h2("Chance Of Survival"),
            plotOutput("distPlot"),
-           h6(a("Source Code Found Here", href="https://github.com/callumgwtaylor/surgical_critical_ethics"))
+           em(a("Source Code Found Here", href="https://github.com/callumgwtaylor/surgical_critical_ethics/tree/main/survival"))
         )
     )
 )
