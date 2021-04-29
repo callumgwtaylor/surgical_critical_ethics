@@ -1,4 +1,4 @@
-presentation <- './surgical_ethics.md'
+presentation <- './presentation/surgical_ethics.md'
 
 rmarkdown::render(presentation)
 

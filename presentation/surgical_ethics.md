@@ -91,16 +91,8 @@ We're saying there may be a best thing to do in general, but that may be differe
 > Estimated morbidity using POSSUM risk adjustment model: 99.5%
 
 
-# Structure of Principles
+# Structure of Principles{data-background-iframe="https://callumgwtaylor.github.io/surgical_critical_ethics/diagrams/principles.html"}
 
-```mermaid
-flowchart TB;
-    A[Principlism]
-    A---B[Autonomy]
-    A---C[Justice]
-    A---D[Beneficence]
-    A---E[Non Maleficence]
-```
 
 <div class="notes">
 
@@ -126,18 +118,8 @@ Why these four principles and not four others? Literally just because. Beachamp 
 
 </div>
 
-# Maximise Good
+# Maximise Good {data-background-iframe="https://callumgwtaylor.github.io/surgical_critical_ethics/diagrams/beneficence.html"}
 
-```mermaid
-  flowchart TD;
-    A[Maximise Good, <br> Beneficence]
-    A --- B[Save Life / <br> Prevent Dying]
-    A --- C[Maximise Life Years Saved]
-        B --> C
-    A --- D[Maximise Good Quality Life Years Saved]
-      C --> D
-
-```
 
 <div class="notes">
 
@@ -183,23 +165,8 @@ The trouble can then be, whose perspective of a lifes worth should we take? Know
 
 </div>
 
-# Minimise Harm
+# Minimise Harm {data-background-iframe="https://callumgwtaylor.github.io/surgical_critical_ethics/diagrams/non-maleficence.html"}
 
-```mermaid
-  flowchart TD;
-    A[Minimise Harm, <br> Non Maleficence]
-    A --- B[Pain]
-    A --- C[Loss of Dignity]
-    A --- D[Loss of Control]
-    A --- E[Loss of Function]
-    A --- F[Unpleasant Death]
-    F --- G[Death In Theatre]
-    F --- H[Death In ICU]
-    F --- I[Death In Hospital]
-    F --- J[Death Intubated/Anaesthetised]
-    F --- K[Family Witness To This]
-
-```
 
 <div class="notes">
 
