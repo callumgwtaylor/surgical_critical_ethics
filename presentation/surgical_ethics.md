@@ -11,6 +11,12 @@ output:
 
 #
 
+- What do surgeons perceive as an ethical dilemma
+- What do critical care perceive as an ethical dilemma
+- Do we have the same perception of it
+
+
+
 <div class="notes">
 The title I was given for this talk was Ethical Dilemmas in Critical Care.
 
@@ -20,6 +26,13 @@ What we mean by an ethical dilemma, is a scenario where you have more than one p
 
 My hope is that this session will be complementary to Kyle's first session this morning, on who should be treated in Intensive Care. Today we've looked at who we would consider sick, why we'd see them as sick, and how to treat them. This last session hopefully is looking at how we can determine whether those treatments are "the most right" or "the least bad".
 </div>
+
+# Main Points of Talk
+
+- We under value patient's quality of life
+- We underestimate the harms of aggressive treatment
+- We overestimate the benefits of aggressive treatment
+- Patients need access to information about wide range of risks and benefits to make an autonomous decision
 
 # Ethical Dilemmas as Perceived By Surgeons{data-background-iframe="https://callumgwtaylor.github.io/surgical_critical_ethics/diagrams/map.html"}
 
@@ -91,7 +104,18 @@ We're saying there may be a best thing to do in general, but that may be differe
 > Estimated morbidity using POSSUM risk adjustment model: 99.5%
 
 
-# Structure of Principles{data-background-iframe="https://callumgwtaylor.github.io/surgical_critical_ethics/diagrams/principles.html"}
+# Structure of Principles
+
+```{r, echo= FALSE}
+DiagrammeR::mermaid("
+graph TD;
+A[Principlism]
+A---B[Autonomy]
+A---C[Justice]
+A---D[Beneficence]
+A---E[Non Maleficence]
+", height = 1000)
+```
 
 
 <div class="notes">
@@ -191,6 +215,66 @@ There also though, is the potential harms for those that die. Even those who rem
 
 </div>
 
+# Harms During ICU - Survivors
+
+- Pain ~ 70% of ICU patients
+
+- ETT
+- Hallucinations
+- Noise/No Rest
+- Thirst
+- Unable to talk
+- Being afraid
+- Shortness of breath
+
+<div class="notes">
+
+So the most common negative experience that people disclose about their ICU stay is pain. We've estimates of ~ 70% patients being in discomfort or pain during their ICU stay.
+
+The things that cause pain that can be more specific to ICU include airway management, bronchoscopy, chest drain, central line insertion.
+
+A 2004 study found half of patients report being in discomfort in ICU, when interviewed after their discharge. The real number is likely to be greater than that though, as you were more likely to recall discomfort if you were more likely to recall events in ICU accurately.
+
+These options after pain are what were reported by patients in this 2004 study, as the most common causes of discomfort.
+</div>
+
+# Harms During ICU - Deaths
+
+
+
+# Harms After ICU
+
+- Requiring assistance with personal care - 20% at One Year
+- Loss of work for patient and for family
+- Worsened mobility
+- Increased risk of pain
+- Increased risk of depression
+- Reduction in health related measures of quality of life
+- Harms to Family
+
+<div class="notes">
+
+So a year after discharge from hospital, 1 in 5 ICU survivors require assistance, mostly from family members, in day to day activities like dressing, washing.
+
+Around half of ICU survivors have a negative effect on their employment. Around half of families that provide care had to make changes to their own work. Around a quarter of families that provide care then have to borrow money, spend savings, or sell their home to pay for care.
+
+Just under half of ICU survivors need help with mobility at one year (which is a doubling when we compare to them before critical illness)
+
+Half of all survivors had reported being in moderate or extreme pain before ICU stay. This has increased to 70% when you look at the survivors at one year.
+
+45% of ICU survivors had moderate or extreme depression, one year after their ICU stay. This is around a 50% absolute increase when compared to before admission.
+
+When you compare the quality of life scores of the ICU survivors at one year to the normal population, you see a marked reduction.
+
+Of course, these are all the harms as described by patients who have survived.
+In addition. Of all patients who are admitted to ICU, 1/3 of family members have significant psychological distress in keeping with PTSD.
+Half of family members of patients who die are found to have a complicated grief reaction. I don't mean to overstate these, I'm sure a great deal of that is due to their critical illness, rather than ICU stay. But it's unlikely to be all of it.
+
+</div>
+
+#  {data-background-iframe="https://callumgwtaylor.shinyapps.io/survival/"}
+
+
 # Autonomy
 
 <div class="notes">
@@ -207,3 +291,6 @@ They won't be able to fully make their own informed choice, without being fully 
 
 
 #  {data-background-iframe="https://callumgwtaylor.shinyapps.io/survival/"}
+
+
+# Balancing These Decisions - MORAL BALANCE

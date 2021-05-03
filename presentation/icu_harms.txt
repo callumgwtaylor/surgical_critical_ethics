@@ -1,0 +1,85 @@
+# Harms of ICU
+
+## Quality of Life
+
+Previous Surveys Survivors:
+Problems with physical/psychological/social health: 2/3 of all 
+Requiring significant care from family members in first year after discharge: 1/3 of all
+
+This Survey:
+2/3 patients were lost to follow up by the 1 year point
+This is all patients who needed more than 48hrs of care
+So you could 
+
+Measure | Before ICU | After ICU
+---|---|---
+Employed | 40% |
+Retired | 46% |
+Unemployed | 6% |
+Long Term Sick | 6% |
+
+Negative Effect on employment = Unemployed, Early Retirement, Part Time, Long Term Sick = ~1/3 at 6 months ~just under 1/3 at 12 months
+
+Requiring assistance with assistance of daily living = 1/4 at at 6 months, 1/5 at 1 year (Majority of this is from family members)
+
+Half of family members providing care had to make adjustment to their working life.
+1/4 of families providing care had to spend savings/borrow money/sell their house, to pay for care
+
+Measures of quality of life = no significant difference
+
+The amount of people who need help with mobility had doubled (to about half of patients)
+
+Half of patients had been in mod/extreme pain before admission, this had increased to 70% at 12 months.
+1/3 patients had mod/extreme depression before admission, this had increased to just under 1/2 patients at 12 months (44%). So this means, if you didn't have depression before, you had ~1/6 chance of being depressed after. And if you were depressed before you will be depressed after.
+
+The overall scores in QoL in all measures of quality of life were lower than compared to the UK normal population.
+
+HR-QoL marked reduction at 12 months
+
+[@Griffiths2013]
+
+
+What increases the risk of that, the same authors looked at risk factors, and higher comorbidity count seemed to have the greatest risk. [@Griffiths2018]
+
+## During ICU
+
+- Noise
+- Light
+- Bed
+- Sleep Deprivation
+- Thirst
+- Hunger
+- Temperature
+- Pain ~70% of ICU Patients experience this
+	+ Venepuncture
+	+ Catheterisation
+	+ Airway Management
+	+ Laryngoscopy/Bronchoscopy
+	+ NG insertion
+	+ Chest Drain
+	+ X Rays
+	+ Turning
+	+ Dressing Change
+- Lines
+- Lack of Priivacy
+- Anxiety
+- Isolation
+
+After discharge, half of patients describe discomfort being in ICU [@Leur2004]
+
+- ETT
+- Hallucinations
+- Medical Activity
+- Noise/No Rest
+- Pain
+- Thirst
+- Unable to talk
+- Shortness of breath
+- Being Afraid
+
+Other studies only half of patients recall these events at all. So it maybe that more are in discomfort, it's just half that remember. [@Leur2004]  Patients with better factual recollection had greater recollection of discomfort.
+
+## Death
+
+- 1/3 family members have PTSD after admission
+- ~1/2 family members have complicated grief reaction
