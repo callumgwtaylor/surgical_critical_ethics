@@ -163,7 +163,11 @@ Probably that most measures of quality of life, under estimate how satisfied som
 ```{r survival_outcomes}
 face_graph_function(patient_numbers = 35,
                     plot_name = "last_year.svg")
+<<<<<<< HEAD
 face_graph_function(patient_numbers = 20,
+=======
+face_graph_function(patient_numbers = 25,
+>>>>>>> f840c7f3bb99b6de955fccf7d31722d140b9ca6d
                     plot_name = "hospital_death.svg")
 face_graph_function(patient_numbers = 33,
                     plot_name = "survive_year.svg")
