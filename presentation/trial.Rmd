@@ -1,0 +1,31 @@
+---
+title: "Shared Ethical Dilemmas For Surgery and Critical Care"
+author: "Callum Taylor"
+date: "21/June/2021"
+output:
+  revealjs::revealjs_presentation:
+    theme: solarized
+    transition: none
+    self_contained: false
+    reveal_plugins: ["notes"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  include = FALSE
+)
+source("C:/Users/desktop-coll/Dropbox/Medicine/Academic.9.ICM/surgical_critical_ethics/presentation/diagrams/face_graph_function.R")
+```
+
+# Slide One
+
+# 
+
+<section data-background-video="file:///C:/Users/desktop-coll/Dropbox/Medicine/Academic.9.ICM/surgical_critical_ethics/presentation/diagrams/utility.mp4"
+          data-background-video-loop=true data-background-video-muted>
+<h2></h2>
+</section>
+
+# Slide Three
