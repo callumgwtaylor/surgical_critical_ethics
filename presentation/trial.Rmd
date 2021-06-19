@@ -23,7 +23,7 @@ source("C:/Users/desktop-coll/Dropbox/Medicine/Academic.9.ICM/surgical_critical_
 
 # 
 
-<section data-background-video="/diagrams/utility.mp4"
+<section data-background-video="diagrams/utility.mp4"
           data-background-video-loop=true data-background-video-muted>
 <h2></h2>
 </section>
