@@ -296,9 +296,7 @@ Of those who do survive to get home, one in five of them are dead within the yea
 Of these patients who survive ICU, and get back home, a quarter are back in hospital within 3 months.
 </div>
 
-# Consolidation{data-background-iframe="https://callumgwtaylor.shinyapps.io/survival/"}
-
-*[link](https://callumgwtaylor.shinyapps.io/survival/)*
+# [Consolidation](https://callumgwtaylor.shinyapps.io/survival/){data-background-iframe="https://callumgwtaylor.shinyapps.io/survival/"}
 
 <div class="notes">
 To consolidate this, we'll guess some chances and take some from scottish cohort data.
