@@ -10,41 +10,6 @@ output:
     reveal_plugins: ["notes"]
 ---
 
-<div class="notes">
-
-This is the title I was provided, shared ethical dilemmas for surgery and critical care.
-It's important to be honest from the start and say that this talk won't be like the other talks in that it provides no answers as to what to do.
-
-The point of a dilemma, what makes a dilemma a dilemma is that you find yourself in a situation where there are at least two reasonable arguments, to take two completely different courses of action. When it comes to a medical ethical dilemma that is shared by the surgical team and those of us working in critical care, the clearest example would be ethical dilemmas faced when treating the critically unwell surgical patient.
-
-This talk is going to focus on the dilemma that all of us regardless of our level of experience have faced, approaching the situation where we try and weigh up reasons to continue, or reasons to stop certain hospital treatments, ones you may consider in an attempt to preserve someones' life.
-
-As I said, I'm not going to give any answer here. My aim is to put forward an argument that they only way these decisions can be made with the greatest likelihood of doing what's best for an individual patient, is through discussion with them, with detail that we might find uncomfortable to provide. I'm also going to argue that as the professionals who know your patients best, you as surgeons are in the strongest position to have helpful and meaningful conversations with your patients to plan what's best for them.
-
-In this talk I will explain that I think the main dilemma for surgeons and clinicians is to work out when to continue with life sustaining treatment and when to stop.
-
-I want to put that I think that a major source of difficulty for us is not knowing what's for the best for the patient. I can then put that there is an easy way for us to have a better idea about what's best for that patient, and that's by talking to them about it. However talking to them about it only works if we come at it from the same understanding, from the shared common language.
-
-I'll explain what my general understanding I think a patient should know to help make a decision.
-
-I'll explain what I think we need to know about our patients to help us make our decisions.
-
-I'll explain how we can use the ethical principles to lay out our argument
-And I'll explain why I don't think they're set in stone.
-
-I'll talk a bit about proportional discussion based decisions.
-
-And a tiny bit about the law.
-
-Stop means a lot of things.
-
-It might mean, when do we withdraw invasive ventilation, stop inotropes, stop dialysis.
-It might mean, when do we say we shouldn't start those things, or escalate the amount we are giving.
-It might mean, when do we say we shouldn't go to theatre. Or that we limit our invasive approach in theatre, we'd fix one thing if we found it, we wouldn't do another, we would not support in critical care after theatre.
-
-</div>
-
-# Theory
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
@@ -126,6 +91,44 @@ face_graph_function(
   plot_name = "grief.svg"
 )
 ```
+
+# Shared Ethical Dilemmas For Surgery and Critical Care
+
+<div class="notes">
+
+This is the title I was provided, shared ethical dilemmas for surgery and critical care.
+It's important to be honest from the start and say that this talk won't be like the other talks in that it provides no answers as to what to do.
+
+The point of a dilemma, what makes a dilemma a dilemma is that you find yourself in a situation where there are at least two reasonable arguments, to take two completely different courses of action. When it comes to a medical ethical dilemma that is shared by the surgical team and those of us working in critical care, the clearest example would be ethical dilemmas faced when treating the critically unwell surgical patient.
+
+This talk is going to focus on the dilemma that all of us regardless of our level of experience have faced, approaching the situation where we try and weigh up reasons to continue, or reasons to stop certain hospital treatments, ones you may consider in an attempt to preserve someones' life.
+
+As I said, I'm not going to give any answer here. My aim is to put forward an argument that they only way these decisions can be made with the greatest likelihood of doing what's best for an individual patient, is through discussion with them, with detail that we might find uncomfortable to provide. I'm also going to argue that as the professionals who know your patients best, you as surgeons are in the strongest position to have helpful and meaningful conversations with your patients to plan what's best for them.
+
+In this talk I will explain that I think the main dilemma for surgeons and clinicians is to work out when to continue with life sustaining treatment and when to stop.
+
+I want to put that I think that a major source of difficulty for us is not knowing what's for the best for the patient. I can then put that there is an easy way for us to have a better idea about what's best for that patient, and that's by talking to them about it. However talking to them about it only works if we come at it from the same understanding, from the shared common language.
+
+I'll explain what my general understanding I think a patient should know to help make a decision.
+
+I'll explain what I think we need to know about our patients to help us make our decisions.
+
+I'll explain how we can use the ethical principles to lay out our argument
+And I'll explain why I don't think they're set in stone.
+
+I'll talk a bit about proportional discussion based decisions.
+
+And a tiny bit about the law.
+
+Stop means a lot of things.
+
+It might mean, when do we withdraw invasive ventilation, stop inotropes, stop dialysis.
+It might mean, when do we say we shouldn't start those things, or escalate the amount we are giving.
+It might mean, when do we say we shouldn't go to theatre. Or that we limit our invasive approach in theatre, we'd fix one thing if we found it, we wouldn't do another, we would not support in critical care after theatre.
+
+</div>
+
+# Theory
 
 > "The dilemma at the base of intensive care is the tension between a right to life and a right to die"
 
@@ -427,6 +430,7 @@ Patients are going for these more aggressive treatments, as mentioned before, as
 # 
 
 >  The proportion of patients choosing LSTs decreased in line with an increase in the likelihood that the outcome of the treatment would be death or functional and/or cognitive impairment. 
+
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795676/]
 
 #
@@ -483,7 +487,7 @@ In addition to that, beyond the patients experience, 50% of families whose relat
 - If it is consistent with the patients values and preferences
 - If it is not distressing for the individuals family and for those caring for them [@Wilkinson2020]
 
-# MORAL Balance - Outcomes of Relevance{data-background-iframe="http://www.moralbalance.org/framework/analyses/"}
+# MORAL Balance - Outcomes of Relevance{data-background-iframe="http://moralbalance.org/framework/analyses/"}
 
 > **M**ake sure of facts
 > **O**utcomes of **R**elevance for **A**gents
