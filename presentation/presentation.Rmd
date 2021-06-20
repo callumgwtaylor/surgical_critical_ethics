@@ -10,6 +10,42 @@ output:
     reveal_plugins: ["notes"]
 ---
 
+<div class="notes">
+
+This is the title I was provided, shared ethical dilemmas for surgery and critical care.
+It's important to be honest from the start and say that this talk won't be like the other talks in that it provides no answers as to what to do.
+
+The point of a dilemma, what makes a dilemma a dilemma is that you find yourself in a situation where there are at least two reasonable arguments, to take two completely different courses of action. When it comes to a medical ethical dilemma that is shared by the surgical team and those of us working in critical care, the clearest example would be ethical dilemmas faced when treating the critically unwell surgical patient.
+
+This talk is going to focus on the dilemma that all of us regardless of our level of experience have faced, approaching the situation where we try and weigh up reasons to continue, or reasons to stop certain hospital treatments, ones you may consider in an attempt to preserve someones' life.
+
+As I said, I'm not going to give any answer here. My aim is to put forward an argument that they only way these decisions can be made with the greatest likelihood of doing what's best for an individual patient, is through discussion with them, with detail that we might find uncomfortable to provide. I'm also going to argue that as the professionals who know your patients best, you as surgeons are in the strongest position to have helpful and meaningful conversations with your patients to plan what's best for them.
+
+In this talk I will explain that I think the main dilemma for surgeons and clinicians is to work out when to continue with life sustaining treatment and when to stop.
+
+I want to put that I think that a major source of difficulty for us is not knowing what's for the best for the patient. I can then put that there is an easy way for us to have a better idea about what's best for that patient, and that's by talking to them about it. However talking to them about it only works if we come at it from the same understanding, from the shared common language.
+
+I'll explain what my general understanding I think a patient should know to help make a decision.
+
+I'll explain what I think we need to know about our patients to help us make our decisions.
+
+I'll explain how we can use the ethical principles to lay out our argument
+And I'll explain why I don't think they're set in stone.
+
+I'll talk a bit about proportional discussion based decisions.
+
+And a tiny bit about the law.
+
+Stop means a lot of things.
+
+It might mean, when do we withdraw invasive ventilation, stop inotropes, stop dialysis.
+It might mean, when do we say we shouldn't start those things, or escalate the amount we are giving.
+It might mean, when do we say we shouldn't go to theatre. Or that we limit our invasive approach in theatre, we'd fix one thing if we found it, we wouldn't do another, we would not support in critical care after theatre.
+
+</div>
+
+# Theory
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(
   message = FALSE,
@@ -19,85 +55,20 @@ knitr::opts_chunk$set(
 source("C:/Users/desktop-coll/Dropbox/Medicine/Academic.9.ICM/surgical_critical_ethics/presentation/diagrams/face_graph_function.R")
 ```
 
-# Introduction
-
-<div class="notes">
-
-
-
-</div>
-
-# Theory
-
-<div class="notes">
-</div>
-
-# # The Ethical Systems
-
-Life, Death - Outcomes - "Consequential"
-
-Good, Bad - Values - "Non-Consequential"
-
-<div class="notes">
-
-
-</div>
-
-# # Principlism - Shared Language
-
-- *Autonomy* - Respecting the person as a person with their own rights
-- *Justice* - Treat people fairly
-- *Beneficence* - Do good
-- *Non-Maleficence* - Dont do bad
-
-<div class="notes">
-
-
-
-</div>
-
-
-
-# # A Shared Morality?
-# # Alternatives
-# # Law
-# Practice
-# # What Are The Chances?
-
-
-# ## Outcome - Live Vs Die
-
 ```{r survival_outcomes}
 face_graph_function(
   patient_numbers = 35,
   plot_name = "last_year.svg"
 )
 face_graph_function(
-  patient_numbers = 25,
+  patient_numbers = 20,
   plot_name = "hospital_death.svg"
 )
 face_graph_function(
-  patient_numbers = 33,
+  patient_numbers = 20,
   plot_name = "survive_year.svg"
 )
 ```
-
-# ### Hospital Inpatient <br> Last Year Of Life (1 in 3){data-background="diagrams/last_year.svg"}
-
-# ### Admitted To ICU <br> Die In Hospital (1 in 5){data-background="diagrams/hospital_death.svg"}
-
-# ### Survive ICU And Hospital <br> Die Within The Year (1 in 5){data-background="diagrams/survive_year.svg"}
-
-<div class="notes">
-
-</div>
-
-# ###  {data-background-iframe="https://callumgwtaylor.shinyapps.io/survival/"}
-
-*[link](https://callumgwtaylor.shinyapps.io/survival/)*
-
-
-# ### Outcome - Good Life vs Bad Life - The Quality of Life
 
 ```{r qol_outcomes}
 face_graph_function(
@@ -126,13 +97,6 @@ face_graph_function(
 )
 ```
 
-# ### Readmitted To Hospital Within 3 Months (1 in 4) {data-background="diagrams/hospital_readmissions.svg"}
-# ### Require Assistance With ADLs at 6 months (1 in 4) {data-background="diagrams/adls.svg"}
-# ### Lost Work at 12 Months (1 in 3) {data-background="diagrams/lost_work.svg"}
-# ### Need Help With Mobility (1 in 2) {data-background="diagrams/mobility.svg"}
-# ### Experiencing Moderate/Extreme Depression at 12 Months (44%) {data-background="diagrams/depression.svg"}
-# ### Experiencing Moderate/Extreme Pain at 12 Months (70%) {data-background="diagrams/pain.svg"}
-
 ```{r qol_outcomes_two}
 face_graph_function(
   patient_numbers = 50,
@@ -148,30 +112,13 @@ face_graph_function(
 )
 ```
 
-# ## Outcome - Good Life vs Bad Life - The Quality of Life
-
-# ### Families Providing Care  <br> Lose Work (1 in 2) {data-background="diagrams/lost_work_families.svg"}
-# ### Families Providing Care <br> Spend Savings/Borrow Money/Sell House (1 in 4) {data-background="diagrams/money.svg"}
-# ### Families w/ PTSD after admission (1 in 3) {data-background="diagrams/ptsd.svg"}
-
-# Outcome - Good Life vs Bad Life - The Quality of Life
-
-- HR-QoL Marked Reduction at 12 Months
-- Disability Paradox/Hedonic Ladder/Adjustive Preferences
-
-<div class="notes">
-
-Do These Things Matter?
-
-</div>
-
 ```{r qol_outcomes_three}
 face_graph_function(
   patient_numbers = 70,
   plot_name = "pain.svg"
 )
 face_graph_function(
-  patient_numbers = 50,
+  patient_numbers = 70,
   plot_name = "discomfort.svg"
 )
 face_graph_function(
@@ -180,10 +127,334 @@ face_graph_function(
 )
 ```
 
-# Outcome - Good Death vs Bad Death
+> "The dilemma at the base of intensive care is the tension between a right to life and a right to die"
 
-# ### Pain In ICU (70%) {data-background="diagrams/pain.svg"}
-# ### Discomfort In ICU (70%)  {data-background="diagrams/discomfort.svg"}
+*Hard Questions in Intensive Care. Dunstan. 1985*
+
+<div class="notes">
+
+To consider stopping, in whatever definition we've gone for, is to recognise that there is a balance to be made with all medical and surgical treatments.
+
+Dunstan describes it as the competing duties to protect the rights to a good life and a good death.
+
+</div>
+
+# Ethical Systems 
+
+Outcomes Versus Values
+
+<div class="notes">
+
+The classic way any attempt to work out the right thing to do it to split it up into, is it the outcome of the action that's important, or is it the reasons we took that action that are what makes an action right or wrong.
+
+</div>
+
+# 
+
+<section data-background-video="diagrams/utility.mp4"
+          data-background-video-loop=true data-background-video-muted>
+<div class="notes">
+
+There are plenty of ways to split this up. The  most common form of a consequentialist approach seen, particularly in medicine, is to judge an act based on how much of a certain outcome it creates. The traditional way to do that is to say act in a way that creates the most happiness. Happiness is pretty much the same thing as the concept known as utility, which is where you get the idea of utilitarianism. The right thing to do is the one that maximises utility, or happiness. You can switch in any other outcome into here, so we can change our important outcome from happiness to lives saved. The right way to act is the way that will save the most lives.
+
+</div>
+</section>
+
+# 
+
+<section data-background-video="diagrams/utility2.mp4"
+          data-background-video-loop=true data-background-video-muted>
+<div class="notes">
+We can then say that because we don't know for certain what is the outcome when we act, we only know how likely we guess an outcome will be, rather than talking about pure utility, we should talk about *expected utility*. When you are taking an expected utilitarian approach, you are saying the way to judge if an act is right or wrong, is by seeing if the act is the one that is most likely to give us the outcome we care about.
+
+There are some problems that come up with this expected utilitarian approach. Firstly, it says the only thing that matters is how likely it is that someone survives, and what you do to achieve that goal is not important. Secondly, the only right approach is the one that is most likely to get the outcome you want. An alternative action, one that's pretty likely to give the outcome you want, but not as likely, is considered to be the ethically wrong thing to do.
+</div>
+</section>
+
+# Non-Consequentialist 
+
+<div class="notes">
+If you say this is rubbish, that the ends don't justify the means, that it's the reasons you act that are important, rather than the outcome of your actions, then you're taking a non-consequential, or deoontological approach. That might be any manner of approach, it might be that you think the most important thing is to respect someones humans rights, or to treat people with compassion, or to act in a way you think a good doctor would act (whatever that is). This may be a lot more nuanced, than just the looking at whether someone survives or dies. The difficulty here, is that if you're a strict non-consequentialist, then whether someone lives or dies does not affect whether an action is good or bad, or better or worse.
+
+So, at this point, you might think like me, that both these approaches seem rubbish. You can't say only the outcomes matter and not the reasons you took an action. You also can't say in any situation there is only one acceptable action. You also cant say only the reasons matter and the consequences dont. Instead, if you look at our dilemma as it started, we think both the outcome of an action, and the reasons for an action are important.
+</div>
+
+# Principlism
+
+- *Autonomy* - Respecting the person as a person with their own rights
+- *Justice* - Treat people fairly
+- *Beneficence* - Do good
+- *Non-Maleficence* - Dont do bad
+
+<div class="notes">
+This is where alternative systems come into play. This is where we can talk about the approach you've probably been told is THE way to approach ethical dilemmas in medicine, the idea of principlism.
+
+Principlism is a way of approaching ethical dilemmas in medicine, it allows you to take into account both outcomes and values.
+
+We can see how taking a principlist approach allows us to take a more wideranging approach. Principlism says there's more than one approach to working out what's right and wrong. It's called a pluralist approach as it takes on a plurality of reasons. Classically the other systems I'd already described would be seen as absolutist, in that there's only one thing that decides if an outcome is right or wrong, and that thing is ABSOLUTE.
+
+Whereas here in pluralism we can say that it's important to act in a way that save's someones life, that's maximising beneficence. But also you're respecting that person's human rights, that's maximising autonomy. You are also trying to avoid causing them pain, causing them suffering, in that maximising non-maleficence way.
+
+```{r, echo= FALSE}
+DiagrammeR::mermaid("
+graph TD;
+A[Principlism]
+A---B[Autonomy]
+A---C[Justice]
+A---D[Beneficence]
+A---E[Non Maleficence]
+", height = 1000)
+```
+</div>
+
+# Shared Morality? - House of Sand 
+
+> Based on our findings, we can conclude that the principles of biomedical ethics – in particular autonomy – have only a weak grounding in human moral psychology and thus in the common morality 
+
+*Christen 2014*
+
+<div class="notes">
+These four principles seem reasonable to most of us. The rights of the individual, the importance of treating people fairly, a requirement to do good, and to avoid harm. But why these four? If you ask Beauchamp and Childress, the creators of the system of principlism, they turn to the idea of a "common morality". These four principles are THE four principles, because they come directly from a collective common morality. They are the four principles you could ask anyone, anywhere, and they would come up with them.
+
+This has been criticised. Beauchamp and Childress are two affluent white male american academics. The likelihood that they've seen something from their particular perspective that happens to be shared with every human might be unlikely. Walker and Lovat, two affluent white australian academics, bring up a sociological point, that these men were trying to establish morals for  a medical community that was facing the aftermath of the tuskegee trials, a major failing in promoting autonomy of patients, and that this may have shaped their thoughts on the importance of ethical principles.
+
+If you look at psychological studies of what a common morality is, you don't come up with the four principles. Christen's trial from 2014, that assessed ethical decision making in clinicians and those who worked in business found neither aligned with the four principles. Christen's work found a common morality in this group could be described as: respect, loyalty, and responsibility.
+
+Now, this isn't to say that Beauchamp and Childress' system of ethical principles are wrong. Just that the reason they give for it being these four principles isn't true. We don't have a universal morality that says it only cares about these four things.
+
+The way I see it. There's a great big mess of ethical factors that could be relevant to our decision. The four principles approach doesn't tell us anything fundamental about these factors. What it does though, is provide a nice sorting system for us to group aspects together and compare them against each other. I'd describe the four principles as a filling system, rather than the pillars we get taught.
+
+Principlism is a shared language in medicine. It doesn't really matter that it's maybe not grounded in what Beauchamp and Childress say it is, it's still what we all use. Interestingly, the piece from Christen does suggest that maybe medical practitioners came closer to the four principles than those in business did, as the medics had been taught the four principles in uni, and that had shaped their ways of thinking.
+
+We aren't going to get away from principlism, and I don't think we need to. It's a good labelling system.
+</div>
+
+# Human Rights Act
+
+- Article 2 Right To Life
+- Article 3 Right to protection from torture (mental or physical), inhuman or degrading treatment or punishment 
+
+<div class="notes">
+I'm not going to talk about the law too much, beyond point out how it stands as a safe limiter either end of the debate. 
+To follow the law is to fall within the range of what we may consider acceptable in society at any one time.
+
+An example of this would be the classic case of Airedale vs Bland. This was the first case to clearly demonstrate in UK law the ability to withdraw care that is keeping someone alive in a persistent vegetative state. Tony Bland was a young man critically injured in the Hillsborough football disaster, and the case was establishing the right to withdraw artificial nutrition and hydration that was keeping him alive in a persistent vegetative state. So the law places a guide here, there isn't an obligation to pursue the prolongation at all costs.
+
+The reason I've put these two Articles of the Human Rights Act up there, is to show how our ethical dilemmas can be seen within a single piece of UK statute. The Human Rights Act of 1998, our implementation of the European Convention on Human Rights, shows that the state has a duty to protect an individuals right to life (their article 2 right). The state also though, has a duty to protect someone from going through torture, inhuman, or degrading treatment. We'll look at some aspects of ICU care that could be interpreted by some as potentially infringing a person's article 3 rights, in attempt to protect their article 2 rights. There's also Article 5 protecting your liberty from detention, something the chemical and physical restraints of surgery and critical care sometimes come up against.
+</div>
+
+# Practice - Situation
+
+- A Good Life
+- A Bad Life
+- A Good Death
+- A Bad Death
+
+<div class="notes">
+So going back to our dilemma, when should we stop? When should we not intervene with potentially life saving treatments?
+
+Starting from a consequentialist approach. We can imagine that whatever we do, one of these four options will be the outcome for the patient:
+
+
+Our choices, our interventions, can affect the likelihood of which outcome we get. Some of these will be desirable and some won't be. However the labelling of any outcome is going to depend on the individual affected by it. What makes a life good or not is uncertain. What makes a death good or not is uncertain. How desirable they are is uncertain.
+
+There is at some unknown point for every patient, a tipping point in chance where an intervention they consider worth it, becomes one they don't want to go ahead with. That may be because it doesn't give them a good enough chance at their good outcome. Or it may be because it gives too high a chance of a bad outcome. Where the tipping point is for the patient is unlikely to be the same as where we place it.
+</div>
+
+# What Are The Chances?
+
+<div class="notes">
+In determining where this tipping point is, we need to have our best guess at what is likely to occur. Of course we also need to be honest that sometimes our best guess is pretty rubbish.
+</div>
+
+# Hospital Inpatient <br> Last Year Of Life (1 in 3){data-background="diagrams/last_year.svg"}
+
+<div class="notes">
+So this is the first point that I'd like to bring. The patients that we meet are more likely to be close to the end of their life than we think.
+These statistics are from FICM's Working Group on End of Life care.
+</div>
+
+# Admitted To ICU <br> Die In Hospital (1 in 5){data-background="diagrams/hospital_death.svg"}
+
+<div class="notes">
+Of those who we consider the potential benefits are worth it to try a spell in ICU:
+One in five of them don't survive hospital.
+</div>
+
+# Survive ICU And Hospital <br> Die Within The Year (1 in 5){data-background="diagrams/survive_year.svg"}
+
+<div class="notes">
+Of those who do survive to get home, one in five of them are dead within the year. And these two points are of the patients who we've already thought are "well enough" for ICU.
+</div>
+
+# Readmitted To Hospital Within 3 Months <br> (1 in 4){data-background="diagrams/hospital_readmissions.svg"}
+
+<div class="notes">
+Of these patients who survive ICU, and get back home, a quarter are back in hospital within 3 months.
+</div>
+
+# Consolidation{data-background-iframe="https://callumgwtaylor.shinyapps.io/survival/"}
+
+*[link](https://callumgwtaylor.shinyapps.io/survival/)*
+
+<div class="notes">
+To consolidate this, we'll guess some chances and take some from scottish cohort data.
+If we have our high risk cohort and operate on 100 of them.
+Say 95% survive their operation, and 90% of them survive their ICU stay, and 88% of them survive their hospital stay, and 87% of them survive one year, and 73% of them survive the next three years to get to four years post op. Then less than half of the patients we started with are alive at 4 years. It was only 2/3 who made it to a year. Those last few numbers that seemed all to specific, are from a scottish study on survival after surgical stays in critical care.
+</div>
+
+
+# Require Assistance With ADLs at 6 months <br> (1 in 4){data-background="diagrams/adls.svg"}
+
+<div class="notes">
+1 in 4 patients will need assistance with ADLs at the 6 months after discharge mark.
+</div>
+
+# Lost Work at 12 Months <br> (1 in 3){data-background="diagrams/lost_work.svg"}
+
+<div class="notes">
+1 in 3 will have less work at 12 months
+</div>
+
+# Need Help With Mobility <br> (1 in 2){data-background="diagrams/mobility.svg"}
+
+<div class="notes">
+1 in 2 will need some form of mobility aid at 6 months
+</div>
+
+# Experiencing Moderate/Extreme Depression at 12 Months <br> (44%) {data-background="diagrams/depression.svg"}
+
+<div class="notes">
+Over a third, close to half will have symptoms of moderate or extreme depression at 12 months
+</div>
+
+# Experiencing Moderate/Extreme Pain at 12 Months <br> (70%) {data-background="diagrams/pain.svg"}
+
+<div class="notes">
+The majority will have symptoms of moderate or extreme pain at 12 months
+</div>
+
+# Families Providing Care  <br> Lose Work (1 in 2) {data-background="diagrams/lost_work_families.svg"}
+
+<div class="notes">
+Half of families will have lost income at the 12 month mark, either due to family members cutting back work to provide care, or related to the patient's lost income
+</div>
+
+# Families Providing Care <br> Spend Savings/Borrow Money/Sell House <br> (1 in 4) {data-background="diagrams/money.svg"}
+
+<div class="notes">
+Of those families that are providing care. 1 in 4 either have to spend savings, borrow money, or sell their house.
+</div>
+
+# Families w/ PTSD after admission <br> (1 in 3) {data-background="diagrams/ptsd.svg"}
+
+<div class="notes">
+ICU is not benign for families. 1 in three families will have a relative with PTSD as a result of the ICU admission
+</div>
+
+# Summarise Our Situation - Do These Things Matter?
+
+<div class="notes">
+So these things are all about survival. There's good evidence that when it comes to health related quality of life measures, that patients have a lower "Quality of life" after surviving critical illness .
+
+But, these are the patients who survived. When you look at whether these patients consider it worth it, they generally say it was. The choice after all is between a lower quality of life or death.
+
+What am I trying to get across here?
+
+Probably that we can over estimate the likelihood that someone will survive intensive care.
+
+Probably that we over estimate the amount that people will be able to do if they survive intensive care.
+
+Probably that we under estimate the harms of intensive care
+
+Probably that most measures of quality of life, under estimate how satisfied someone is with their life.
+
+So Back To The Dilemma. We're looking here at the question of when is enough intervention enough? Which of the outcomes do we think our intervention will result in, a good life or bad life, a good death or bad death. Are the chances of any of these unacceptably high or unacceptably low? We've got a bit more knowledge now to adjust the chances of these.
+</div>
+
+# Critical Illness and Death - The Experience, Patient Preferences
+
+<div class="notes">
+This last bit is looking at how patients' decisions change with more accurate information.
+</div>
+
+#
+
+> patients who did not receive information on prognosis perceived a much longer life expectancy... In addition, these patients were less likely to perform advanced planning and more likely to select aggressive treatment over comfort-oriented care
+
+[https://link.springer.com/article/10.1245/s10434-016-5564-x#Sec3]
+
+<div class="notes">
+Patients are going to hope for the best when it comes to their condition and survival. Without accurate information they will assume they have a better chance, or longer, then they actually have.
+
+This assumption that they're in a healthier place will result in them being more likely to pick more aggressive treatments.
+</div>
+
+#
+
+> In one study of 590 patients with metastatic cancer, Enzinger et al. reported that the majority (71 %) of patients wished to be informed of their prognosis; despite this, the authors noted that only 18 % actually received an estimate of life expectancy
+
+[https://link.springer.com/article/10.1245/s10434-016-5564-x#Sec3]
+
+<div class="notes">
+This is not because patients with life limiting illnesses are attempting to hide away from the truth. The majority want to know. It's us who aren't telling them.
+</div>
+
+#
+
+> In a separate prospective longitudinal cohort study of 332 patients with advanced cancer and caregivers, Wright et al. noted that end-of-life discussions did not lead to worry or depression but instead resulted in less aggressive medical care, longer hospice stays, and better quality of life among both patients and caregivers
+
+[https://link.springer.com/article/10.1245/s10434-016-5564-x#Sec3]
+
+<div class="notes">
+We often don't tell them the reality due to this fear of removing all hope, of worsening the situation. Now this seems like a reasonable concern, and their are certainly ways that such a conversation could harm a patient. However, when a conversation occurs, it results in a better quality of life for a patient, without worsening depression.
+</div>
+
+# 
+
+> Patients with inaccurate prognostic awareness were significantly more likely than those with accurate understanding to prefer ICU care, intubation, and mechanical ventilation than to reject these LSTs.
+
+[https://pubmed.ncbi.nlm.nih.gov/26386187/]
+
+>  Patients express a wide variety of preferences to limit treatments and avoid unacceptable outcomes that have not been discussed with their surgeon.
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4949135/]
+
+<div class="notes">
+Patients are going for these more aggressive treatments, as mentioned before, as they're starting from a place thinking they are healthier than they are. When patients are told the likelihood of their treatment being successful reducing, unsurprisngly they are less likely to pick it.
+</div>
+
+# 
+
+>  The proportion of patients choosing LSTs decreased in line with an increase in the likelihood that the outcome of the treatment would be death or functional and/or cognitive impairment. 
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7795676/]
+
+#
+
+>  Patients who reported having discussed their wishes for EOL care with a physician were more likely to receive care that was consistent with their preferences, both in the full sample and among patients who were aware they were terminally ill
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2834470/]
+
+<div class="notes">
+As mentioned above, talking with clinicians about what patients want, meant they were more likely to get treatments that go along with their values
+</div>
+
+#
+
+> Patients who recognized their terminal illness were more likely to prefer symptom-directed care (83%). However, some patients who were aware they were terminally ill wished to receive life-extending care (17%, 21 of 121 patients).
+
+[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2834470/]
+
+<div class="notes">
+Of course, I don't want to pretend that every patient wants us to stop. Not even every patient who knows they are dying wants to stop. Some will see benefits to treatment and desire to contine. 17% in that paper above. That raises it's own dilemma.
+
+And understandably, the majority of patients who have multimorbidity, but not necessarily a life limiting illness, will desire life sustaining treatments regardless of the chance of success. Again though, the chance of someone refusing that treatment goes up with the level of information they are provided.
+By giving someone full information about the potential outcomes of any intervention, you are more likely going to give them a treatment in keeping with their own values and beliefs
+</div>
+
+# Why might an ICU Death be a "Bad Death"
+
+# Discomfort + Pain In ICU <br> (70%){data-background="diagrams/discomfort.svg"}
 
 - ETT
 - Hallucinations
@@ -195,210 +466,64 @@ face_graph_function(
 - Shortness of breath
 - Being Afraid
 
-# ### Complicated Grief (50%) {data-background="diagrams/grief.svg"}
+<div class="notes">
+We cannot ask those who didn't survive ICU, but the majority of patients who survive ICU describe pain and discomfort in the ICU.
+</div>
 
-# Outcome - A Good Death
+# Complicated Grief <br> (50%) {data-background="diagrams/grief.svg"}
+
+<div class="notes">
+In addition to that, beyond the patients experience, 50% of families whose relative dies in ICU describe symptoms of complicated grief a year later.
+</div>
+
+# What might be a good death?
 
 - Death can be good if it doesn't rob us of future valuable life,
 - If it is associated with comfort and consolation
 - If it is consistent with the patients values and preferences
 - If it is not distressing for the individuals family and for those caring for them [@Wilkinson2020]
 
+# MORAL Balance - Outcomes of Relevance{data-background-iframe="http://www.moralbalance.org/framework/analyses/"}
 
-# ## ICU Outcomes
-# ## Patient Preferences
-# An Approach
-# MORAL Balance
-
-- Make sure of facts
-- Outcomes of Relevence to Agents involved
-- Level out the arguments
-
-- in a Balance Box - Using a principlist system
-
-# MORAL Balance Example
-
-> Tracheostomy insertion for 67 year old man with laryngeal carcinoma and impending airway obstruction
-
-[Moral Balance](http://www.moralbalance.org/framework/analyses/)
-
-# Make Sure of Facts
-
-67 year old presented unwell, with weight loss, difficulty swallowing, confusion, agitation and aggression.
+> **M**ake sure of facts
+> **O**utcomes of **R**elevance for **A**gents
+> **L**evel out the arguments
+> in a **Balance** box
 
 <div class="notes">
-Delirium diagnosed.
-CRP = 158ng/ml but no evident source of probable infection
-Peripheral vascular disease
-Known vascular dementia
-Heavy smoker, heavy alcohol use, said to be ‘always miserable’
-Separated from wife 9 years, wife still in contact, also has son and daughter
-Living alone, coping progressively less well over 9 months
-CT scan chest revealed 5x5cm laryngeal tumour obstructing airway
-Resisted IV fluids, antibiotics
-Nasendoscopy revealed exophytic tumour.
+I thought after all the vagueness we should try and provide something useful as a system. The Moral Balance system has been put forward by intensivists working in the UK, as a way to gather and structure your thoughts when attempting to make an ethical decision in medicine, using the four principles.
+
+Ultimately, what we are doing is formalising what we've been talking about here. In discussion with the patient, their relatives, and your colleagues, you are working out what is important to everyone. You're then seeing how these factors come up against one another, and trying to work out how to either achieve the most important of them, or not cause the greatest harms.
+
+These could be recognising a patients autonomy, even in situations where they may lack capacity, they are still able to express a preference. These can be aiming for beneficence through presevivng life, whilst avoiding non-malefiecence (pain, discomfort, particular interventions a patient had previously refused)
 </div>
 
-# Make Sure of Facts - Options
-
-1) symptom control
-2) palliative tracheostomy
-3) tracheostomy then biopsy, staging CT, consider for radical laryngectomy or radiotherapy
+# Summary
 
 <div class="notes">
-Potential for distressing acute airway obstruction
-Cure possible but unlikely, would lose voice
-Prospects for rehabilitation poor, unlikely to be able to return home
+The reason ethical dilemmas are ethical dilemmas, is because their are multiple valid ways of viewing them, that often conflict with one another.
+
+There isn't a right answer in whether to treat or not.
+
+What we can say though, is that the right thing for a patient is likely to be something in keeping with their own values. It's through decent discussion with our patients we get to what is likely right for them. Patients desire these conversations and if handled well, these conversations help rather than harm.
+
+A patient is only able to make decisions in keeping with their values if we know enough about what's important to them, and they know the reality of their treatment.
+
+Our patients are a lot closer to the end of their life then we often acknowledge.
+
+Surviving critical illness is difficult, and often comes with long term consequences in physical and psychological health, as well as family and social relationships.
+
+The majority of patients would choose to go through it, and the majority would consider it worth it.
+
+However the more patients know about life sustaining treatments, and their own chances, the less likely they are to pick them. Those with life limiting illnesses (and again, 1 in 3 hospital inpatients is in their last year of life)that refuse these treatments often have a greater quality of life than those that go ahead with them. 
 </div>
 
-# Outcomes of Relevance for Agents 
+# References
 
-# Outcomes of Relevance for Agents - Patient
-
-- Lacking mental capacity to decide, paranoid
-- Did not want to stay in hospital, wanted to go home, resisting medical and nursing care
-- Likely to pull at tracheostomy
-- Unhappy with life
-- Would not have wanted to lose voice or independence
-
-# Outcomes of Relevance for Agents - Patient's Family
-
-- Avoid distress
-- Preserve life but not at all costs
-- Respect patient’s views
-- Consensus with all family members
-- Transfer to hospice, to remain in hospital
-
-# Outcomes of Relevance for Agents - Others
-
-- Staff dealing with difficult behaviours
-- Staff anticipating managing acute airway obstruction
-- Risk of diagnostic overshadowing (dementia, substance abuse)
-- Possibility of resolution of delirium
-- Exclude major depression
-
-# Level out in Balancing Box
-
-
-# Leftovers
-
-
-
-
-# When should we stop?
-
-- What is stopping?
-- Why would we stop?
-
-<div class="notes">
-
-
-
-</div>
-
-# The Balance
-
-- Good Life
-- Bad Life
-- Good Death
-- Bad Death
-
-<div class="notes">
-
-
-
-</div>
-
-# The Tipping Point
-
-
-
-<div class="notes">
-
-
-</div>
-
-# The Law
-
-- Statute
-- Case Law
-
-<div class="notes">
-
-
-
-</div>
-
-# The Law And Our Dilemma
-
-- Do you have a legal right to life?
-- Do you have a legal right to a good life?
-- Do you have a legal right to death, or a good death?
-    - Is death legally allowed?
-
-<div class="notes">
-
-
-</div>
-
-# Our Dilemma
-
-<div class="notes">
-
-
-</div>
-
-# Making the balance
-
-- There are no established answers
-- There are no established weights for values
-
-<div class="notes">
-
-</div>
-
-# Autonomy
-
-- Non-capacitous, but does not cooperate with medical treatment and wants to leave hospital
-- Avoid dependency, need to move to care home
-- Avoid loss of voice, need for PEG feed
-- Care for his dog
-
-# Burden (Non Maleficence)
-
-- Medical care resisted by patient, likely to pull at tracheostomy
-- Loss of voice, need for PEG feed
-- Radical treatment unpleasant and unlikely to succeed
-- Delirium may resolve, but dementia will progress and depression unlikely to respond to treatment
-- Unlikely to rehabilitate well in view of comorbidities
-- Prolonging suffering or distress
-- Likely to need care home
-
-# Benefit (Beneficence)
-
-- Preserve life
-- Avoid distress if acute airway obstruction
-- Allow treatment to resolve delirium
-- Allow assessment and treatment of mental state
-- Allow work-up for potential radical treatment
-
-# Justice 
-
-- Diagnostic overshadowing, parity of esteem (delivery of physical healthcare to people with MH problems)
-- Outcome unlikely to be good in view of comorbidities, resources spent aggressive treatment likely to be better used elsewhere
-
-# Document Decision
-
-> The patient lacks mental capacity to decide, so treatment would be on a best interests basis.
-> His expressed, but non-capacitous, wish is against medical intervention.
-> Tracheostomy was considered to avoid impending acute airway obstruction, to allow acute medical
-> treatment, assessment and possible resolution of mental illness, and time for work-up and consideration
-> of definitive cancer treatment.
-> Family were keen to preserve his life, but not at any cost
-> Family’s primary concern was to avoid distress and respect patient’s previously discussed wishes.
-
-# Document Decision
-
-> Outcome
-> Following discussion of options, the pros and cons of each, and the beliefs and priorities that the patient would have brought to the decision, it was agreed not to proceed with tracheostomy insertion, and instead to treat any distress with palliative drugs, including ‘rescue midazolam’ in the case of acute airway obstruction.
-> Transferred to a hospice. He became gradually weaker and although his stridor worsened, he died peacefully on day 19, without acute airway obstruction.
+- Care At The End Of Life - A guide to best practice, discussion and decision-making in and around critical care, The Faculty of Intensive Care Medicine, 2019
+- An exploration of social and economic outcome and associated health-related quality of life after critical illness in general intensive care unit survivors: a 12-month follow-up study, Critical Care, 2013
+- How “moral” are the principles of biomedical ethics? – a cross-domain evaluation of the common morality hypothesis, BMC Medical Ethics, 2014
+- Discomfort and factual recollection in intensive care unit patients, Critical Care, 2004
+- Pain in patients in critical condition and its environment.Revista Médica del Hospital General de México. 2018
+- Life and Death Decisions in the Clinical Setting. Walker. 2017
+- Intensive care utilization and outcomes after high-risk surgery in Scotland: a population-based cohort study. British Journal of Anaesthesia. 2017

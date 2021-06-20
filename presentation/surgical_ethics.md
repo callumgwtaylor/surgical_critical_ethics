@@ -106,16 +106,7 @@ We're saying there may be a best thing to do in general, but that may be differe
 
 # Structure of Principles
 
-```{r, echo= FALSE}
-DiagrammeR::mermaid("
-graph TD;
-A[Principlism]
-A---B[Autonomy]
-A---C[Justice]
-A---D[Beneficence]
-A---E[Non Maleficence]
-", height = 1000)
-```
+
 
 
 <div class="notes">
