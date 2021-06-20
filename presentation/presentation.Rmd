@@ -487,12 +487,15 @@ In addition to that, beyond the patients experience, 50% of families whose relat
 - If it is consistent with the patients values and preferences
 - If it is not distressing for the individuals family and for those caring for them [@Wilkinson2020]
 
-# MORAL Balance - Outcomes of Relevance{data-background-iframe="http://moralbalance.org/framework/analyses/"}
+# MORAL Balance{data-background-iframe="http://moralbalance.org/framework/analyses/"}
 
-> **M**ake sure of facts
-> **O**utcomes of **R**elevance for **A**gents
-> **L**evel out the arguments
-> in a **Balance** box
+**M**ake sure of facts
+
+**O**utcomes of **R**elevance for **A**gents
+
+**L**evel out the arguments
+
+in a **Balance** box
 
 <div class="notes">
 I thought after all the vagueness we should try and provide something useful as a system. The Moral Balance system has been put forward by intensivists working in the UK, as a way to gather and structure your thoughts when attempting to make an ethical decision in medicine, using the four principles.
