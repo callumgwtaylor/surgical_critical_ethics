@@ -528,6 +528,9 @@ Ultimately, what we are doing is formalising what we've been talking about here.
 These could be recognising a patients autonomy, even in situations where they may lack capacity, they are still able to express a preference. These can be aiming for beneficence through presevivng life, whilst avoiding non-malefiecence (pain, discomfort, particular interventions a patient had previously refused)
 </div>
 
+# Moral Balance Example {data-background-iframe="MORAL-Balance-Analysis-1--Tracheostomy-for-laryngeal-cancer.pdf"}
+
+
 # Summary
 
 
