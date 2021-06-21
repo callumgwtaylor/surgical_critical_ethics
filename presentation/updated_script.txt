@@ -1,0 +1,139 @@
+# Shared Ethical Dilemmas for Surgery and Critical Care
+
+Hi everyone, thank you for sticking around to listen to me, I'm aware this is the last talk of the day.
+My names Callum, I'm an intensive care trainee here in Glasgow and I'm currently completing my masters in Medical Ethics and Law
+
+# SHARED ETHICAL DILEMMAS FOR SURGERY AND CRITICAL CARE
+
+So this is the title I was provided, shared ethical dilemmas for surgery and critical care.
+
+To be open right from the start, the reason something is an ethical dilemma, is that you find yourself in a situation where there are at least two reasonable arguments to do different, mutually exclusive things. You're trying to make a decision about the right way to act, and you've got two people you trust, one telling you to turn left, one telling you to turn right.
+
+Ultimately, there isn't necessarily one correct way to act in these scenarios.
+
+What this talk aims to do is give you a bit more information with regards to a particular dilemma, that of when to stop intervening with what we call "life sustaining treatments"
+
+
+I think this talk has three main points:
+
+1 - That the principles we were told were pillars of medical ethics, are not as solid as we were taught.
+2 - That our patients are a lot closer to the end of their lives then we expect, when they undergo a critical illness, or major surgery. In addition to that, you are a lot more unwell after critical illness and major surgery than we often acknowledge.
+3 - And lastly, that when we give our patients accurate information about their illness and our treatments, they make different decisions, they are more likely to refuse certain treatments, and they may have a better quality of life as a result. I think as surgeons, you are best placed to start these conversations with your patients, especially your elective ones, through the relationship and rapport you have developed
+
+# Theory
+
+So that's the gist of the talk, you can stop listening now if you've had enough.
+
+Dunstan in 1985 summed up what we're talking about here, that we have competing duties, to protect someones right to life, and their right to a good death.
+
+# Ethical Systems
+
+So how should we look at these duties from an ethical framework.
+
+The first division in approach is whether we think it's the outcomes that are important (the good life and good death), or the values that drove us in a certain way (the duties)
+
+If you think the outcomes, you're thinking in consequentialist terms.
+
+# Utility1.mp4
+
+So the traditional consequentialist approach would be utitilitarism. The right thing to do is the way that produces the most of a certain outcome.
+In our situation that may be act in the way that saves the most lives. It could be any consequence, it could also be a combination of consequences.
+
+# Utility2.mp4
+
+But we're operating in an uncertain system. You don't know if a patient is going to survive, or how long they'll survive, or what their quality of life may be.
+
+So instead we need to talk about the chances of a certain outcome, or expected utility. They way to work what the best action is, is it's the one most likely to give us the outcome we want, like survival from critical illness.
+
+The problems that start to emerge is that for a strict utilitarian, the only thing that matters is the outcome. What you do to achieve it doesnt matter. The ends justify the means.
+
+# NON-CONSEQUENTIALIST
+
+Instead you may want to take on different factors, take on a non-consqequentilist or deontological approach. It's the values or duties that you followed that means you acted in the correct way. You wanted to respect a patients human rights, or to treat them with compassion, or to act in a way you think a good surgeon should act.
+
+At this point like me, you might say, this traditional split between only outcomes or only reasons seems daft, clearly they both matter.
+
+# Principlism
+
+And this is where the approach of Beauchamp and Childress comes in.
+
+I don't know for everyone here, but I was taught this in uni as the pillars of medical ethics. These four principles: of respecting the person, treating everyone fairly, doing good, and avoiding harm (or autonomy, justice, beneficence and nonmaleficence) were the foundations of good ethical decisions.
+
+What principlism does is say rather than one absolute factor is important, instead theres this plurality of factors that need to be balanced against one another.
+
+Beauchamp and Childress put it forward that these four principles are universal, that they come from our shared common morality. It's these four principles, because we all already know that it's these four principles. It's here that the difficulty emerges.
+
+# SHARED MORALITY? - HOUSE OF SAND
+
+So it's been reasonably criticised, their idea of a common morality. The idea that the two affluent white male north american academics have a perspective that is global, and covers all of our shared morality, seems unlikely. Theres culture and sociology that comes into what certain groups find to be principles of an ethical decision. Walker and Lovat point out that from a sociological perspective, principlism puts autonomy so high as it came about in the late 20th century, when our failings to protect autonomy in nazi experimentation, and the tuskagee trials, was so clear.
+
+If you look at a psychological grounding for the common morality, you don't come up with the four principles.
+
+Christen in 2014 when looking at those in medicine and in business found the two groups had two different moral systems, and neither was the four principles. The parts that overlapped seemed to be: respect, loyalty, and responsibilty.
+
+Now that doesn't mean that these four principles aren't important, but it does suggest that they can't be justified as coming from a common morality like the authos of principlism put forward.
+
+The way I see it. There’s a great big mess of ethical factors that could be relevant to our decision. The four principles approach doesn’t tell us anything fundamental about these factors. What it does though, is provide a nice sorting system for us to group aspects together and compare them against each other. I’d describe the four principles as a filling system, rather than the pillars we get taught.
+
+Principlism is a shared language in medicine. It doesn’t really matter that it’s maybe not grounded in what Beauchamp and Childress say it is, it’s still what we all use. Interestingly, the piece from Christen does suggest that maybe medical practitioners came closer to the four principles than those in business did, as the medics had been taught the four principles in uni, and that had shaped their ways of thinking.
+
+We aren’t going to get away from principlism, and I don’t think we need to. It’s a good labelling system.
+
+# HUMAN RIGHTS ACT
+
+I won't talk about the law too much, beyond point out that if a dilemma gives us a range of possibly acceptable ways to act, the law provides us with boundaries at either side, at where society currently finds actions to be acceptable.
+
+The classic case in UK law when it comes to stopping life sustaining treatments would be that of Airedale vs Bland. ony Bland was a young man critically injured in the Hillsborough football disaster, and the case was establishing the right to withdraw artificial nutrition and hydration that was keeping him alive in a persistent vegetative state. So the law places a guide here, there isn’t an obligation to pursue the prolongation of life at all costs.
+
+These two articles of the Human Rights Act of 1998 are up on the screen to show that the law faces its own dilemmas. The state has a duty to protect an individuals right to life, but also to protect them from inhuman or degrading treatment. The two of these may come into conflict with aspects of intensive care. In addition Article 5 puts a duty on the state to protect an individuals right to liberty and freedom from detention, something the chemical and physical restraints of surgery and intensive care can interfere with.
+
+# PRACTICE - SITUATION
+
+So going back to our dilemma, when should we stop, or not start, life sustaining treatments?
+
+e can imagine that whatever we do, one of these four options will be the outcome for the patient:
+
+Our choices, our interventions, can affect the likelihood of which outcome we get. Some of these will be desirable and some won’t be. However the labelling of any outcome is going to depend on the individual affected by it. What makes a life good or not is uncertain. What makes a death good or not is uncertain. How desirable they are is uncertain.
+
+There is at some unknown point for every patient, a tipping point in chance where an intervention they consider worth it, becomes one they don’t want to go ahead with. That may be because it doesn’t give them a good enough chance at their good outcome. Or it may be because it gives too high a chance of a bad outcome. Where the tipping point is for the patient is unlikely to be the same as where we place it.
+
+# WHAT ARE THE CHANCES?
+
+In determining where this tipping point is, we need to have our best guess at what is likely to occur. Of course we also need to be honest that sometimes our best guess is pretty rubbish.
+
+# HOSPITAL INPATIENT
+LAST YEAR OF LIFE (1 IN 3)
+
+So this is the first point that I’d like to bring. The patients that we meet are more likely to be close to the end of their life than we think. These statistics are from FICM’s Working Group on End of Life care.
+
+# ADMITTED TO ICU
+DIE IN HOSPITAL (1 IN 5)
+
+Of those who we consider the potential benefits are worth it to try a spell in ICU: One in five of them don’t survive hospital.
+
+# The proportion of patients choosing LSTs decreased in line with an increase in the likelihood that the outcome of the treatment would be death or functional and/or cognitive impairment.
+
+This again, is just showing, the more patients know about their treatments, the less likely they are to pick certain options
+
+# WHY MIGHT AN ICU DEATH BE A “BAD DEATH”
+
+So we've talked about the aftermath of intensive care, but why might it be that a death in intensive care is a bad option. Patients don't report it as somewhere they would like to die. And of course we can't ask the patients  who did die, but we can look at the patients experience of ICU by asking those who survived, and making the assumption that those who died had a similar experience
+
+# DISCOMFORT + PAIN IN ICU
+(70%)
+
+The majority of patients describe pain and discomfort in ICU, from those causes
+
+# WHAT MIGHT BE A GOOD DEATH?
+
+But what's the alternative? A death's a death, surely they're all as bad as each other?
+
+Wilkinson, a PICU consultant put forward this set of criteria in a paper last year about how we might consider a death a good death, if it doesn't rob us of future life, etc etc. You can invert them to look again at what may be a bad death, and see that that links in pretty well with what an ICU death is.
+
+# Summary,
+
+So again, ethical dilemmas are dilemmas because there are often multiple valid ways, or ways that appear valid, to approach a situation. There isn't one right answer as to whether to stop life sustaining treatment, and it's very situational dependent. The principles we have been taught can be useful to label the factors we feel are relevant, but they are not the totality, and we shouldn't ignore aspects just because they aren't one of the four pillars.
+
+Our patients are a lot closer to their death then we often acknowledge, and survivng critical illness is difficult, and often comes with long term consequences. The more patients know about their treatment the less likely they are to go through with it, and in some studies thats been associated with a higher quality of life in those groups.
+
+What we can say, is that if you get closer to an individuals own perspective on their life, you are more likely to end up in a scenario in keeping with their values. Patients desire conversations about their prognosis and treatment and if handled well, they help rather than harm. We can only make decisions with patients in keeping with their values, if we know what's important to them, and they know the reality of their treatment.
